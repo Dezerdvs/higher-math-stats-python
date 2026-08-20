@@ -1,5 +1,7 @@
 # Pearson Correlation Matrix Calculator
 
+![CI](https://github.com/Dezerdvs/higher-math-stats-python/actions/workflows/ci.yml/badge.svg)
+
 A small statistics utility that loads a CSV dataset and computes the **Pearson correlation coefficient** between every pair of numeric columns.
 
 ## What it does
